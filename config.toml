@@ -1,4 +1,4 @@
-baseURL = "https://alternative-rvb.github.io/hugo-basic/"
+baseURL = "/"
 title = "My New Hugo Site"
 theme = "basic-theme"
 
